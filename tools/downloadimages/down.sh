@@ -8,6 +8,6 @@ beaf=beauty_image.tar.gz
 fasf=fashion_image.tar.gz
 dir=../tars/
 
-#wget -O "$mobf" "$mob"
-wget -O "$beaf" "$bea"
-#wget -O "$fasf" "$fas"
+#wget -O "$dir$mobf" "$mob"
+wget -O "$dir$beaf" "$bea"
+#wget -O "$dir$fasf" "$fas"
