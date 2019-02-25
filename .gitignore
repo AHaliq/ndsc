@@ -1,3 +1,4 @@
-.ipynb_checkpoints/
 .vscode/
 .DS_STORE
+src/__pycache__/
+src/.ipynb_checkpoints/

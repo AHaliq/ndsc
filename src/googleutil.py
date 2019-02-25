@@ -1,6 +1,6 @@
-bucket = ' http://storage.googleapis.com/ndsc-storage/'
+bucket = 'http://storage.googleapis.com/ndsc-storage/'
 data = bucket + 'data/'
 img = data + 'images/'
-sou = data + 'sources/'
+sou = data + 'source/'
 cln = data + 'clean/'
     
