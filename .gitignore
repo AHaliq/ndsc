@@ -2,3 +2,4 @@
 .DS_STORE
 src/__pycache__/
 src/.ipynb_checkpoints/
+*.pyc
